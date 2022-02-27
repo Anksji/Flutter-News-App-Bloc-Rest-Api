@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "423728630207",
+    "project_id": "githubnewsapp",
+    "storage_bucket": "githubnewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423728630207:android:f4e8b5ba0188bcbb23390a",
+        "android_client_info": {
+          "package_name": "com.app.newslife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423728630207-1vn6r91pegpad756qh9cpmmbq1l3jd5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUHeZU8FlfO-JVKLpndWmRX88c-1oows"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423728630207-1vn6r91pegpad756qh9cpmmbq1l3jd5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423728630207:android:4e974e126ccd1f8f23390a",
+        "android_client_info": {
+          "package_name": "com.app.newslife.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423728630207-1vn6r91pegpad756qh9cpmmbq1l3jd5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUHeZU8FlfO-JVKLpndWmRX88c-1oows"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423728630207-1vn6r91pegpad756qh9cpmmbq1l3jd5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
